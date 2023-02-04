@@ -1,0 +1,19 @@
+{
+  "name": "-itis-6177-assignment06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalmadamwar28/-ITIS-6177-Assignment06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalmadamwar28/-ITIS-6177-Assignment06/issues"
+  },
+  "homepage": "https://github.com/komalmadamwar28/-ITIS-6177-Assignment06#readme"
+}
